@@ -1,0 +1,47 @@
+<li><a href="#"><i class="far fa-comments fa-fw"></i>Testimonials</a></li>
+<li><a href="#"><i class="far fa-user fa-fw"></i>Team Members</a></li>
+<li><a href="#"><i class="far fa-building fa-fw"></i>Services</a></li>
+<li><a href="#"><i class="far fa-check-circle fa-fw"></i>Our Skills</a></li>
+<li><a href="#"><i class="far fa-clipboard fa-fw"></i>How it works</a></li>
+							
+<li><a href="#"><i class="far fa-calendar fa-fw"></i>Events</a></li>
+<li><a href="#"><i class="fas fa-server fa-fw"></i>Pricing</a></li>
+<li><a href="#"><i class="far fa-play-circle fa-fw"></i>Top videos</a></li>
+<li><a href="#"><i class="far fa-chart-bar fa-fw"></i>Stats</a></li>
+<li><a href="#"><i class="far fa-percent fa-fw"></i>Request A Discount</a></li>
+															
+							
+<i class="fas fa-long-arrow-alt-right"></i>
+
+<a href="#"><i class="fab fa-facebook-f"></i></a>
+<a href="#"><i class="fab fa-twitter"></i></a>
+<a href="#"><i class="fab fa-linkedin-in"></i></a>
+<a href="#"><i class="fab fa-youtube"></i></a>
+<i class="filled fas fa-star"></i>
+<i class="far fa-star"></i>
+
+#ffc107 yellow
+Security
+<i class="fas fa-user-shield fa-4x">
+
+Fixing Issues
+<i class="fas fa-tools fa-4x">
+
+Location
+<i class="fas fa-map-marked-alt fa-4x">
+
+coding
+<i class="fas fa-laptop-code fa-4x">
+
+secu
+
+<i class="fas fa-palette fa-4x">
+
+
+Mark
+
+<i class="fas fa-bullhorn fa-4x">
+
+
+
+					
